@@ -1,0 +1,10 @@
+{
+  "name": "Copy of CareSlot 1.15",
+  "description": "A comprehensive healthcare mobile application for doctor appointments, blood donor tracking, organ donor information, and AI-driven cancer patient monitoring.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
